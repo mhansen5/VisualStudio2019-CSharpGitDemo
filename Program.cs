@@ -7,6 +7,8 @@ namespace VisualStudio2019_CSharpGitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Hopefully, I will get an A in this class");
         }
     }
 }
